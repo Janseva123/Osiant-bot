@@ -1,0 +1,5 @@
+python-telegram-bot==20.7
+phonenumbers==8.13.39
+requests==2.31.0
+python-whois==0.9.5
+dnspython==2.6.
